@@ -1,0 +1,4 @@
+# Brain Computer
+
+Using brain signals (EEG) to control devices.
+Common modalities: Electroencephalography (EEG), Magnetoencephalography, Electrocorticography.
